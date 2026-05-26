@@ -1,0 +1,11 @@
+# Nango Integration Ops
+
+Nango Integration Ops is a SaaS workspace for Nango AI integration ops.
+
+Website: https://nangointegrationops.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Nango AI integration ops
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
